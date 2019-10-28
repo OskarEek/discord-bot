@@ -118,4 +118,4 @@ async def activities(ctx):
     await ctx.send(f'```User activities on server\n{finalString}```')
 
 
-bot.run('NDAzOTk2NDQ3OTIzNjM0MTc4.XbWJsA.MUy4rpdI5bmq8Wc0JF1EK_tj5xo')
+bot.run('') #Enter bot token here
