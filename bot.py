@@ -4,8 +4,6 @@ import random
 
 bot = commands.Bot(command_prefix = '.')
 
-#id = 190458699209244672
-
 @bot.event
 async def on_ready():
     print("Bot is ready")
